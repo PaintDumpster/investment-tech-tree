@@ -2,8 +2,8 @@
   "tree_name": "fossil_fuel_tt_v2",
   "source_file": "data/fossil_fuel_tt_v2.json",
   "file_md5": "af2dafc56bc573f0235f383e13d55cfb",
-  "git_commit": "c78ac44",
-  "run_timestamp_utc": "2026-10-20T07:08:42.977515+00:00",
+  "git_commit": "a04bee2",
+  "run_timestamp_utc": "2026-10-21T07:01:36.198849+00:00",
   "num_simulations": 100,
   "simulation_option": "option_3"
 }
